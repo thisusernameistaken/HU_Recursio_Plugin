@@ -3,9 +3,9 @@
 Implemented a loader for the .recc file https://github.com/Kasimir123/Recurso
 
 
-![images/loader.png](loader)
+![c](images/loader.png)
 
 Lift and disassemble
-![images/dis_lift.png](lift)
+![a](images/dis_lift.png)
 
-![images/dis_lift2.png](lift2)
+![b](images/dis_lift2.png)
